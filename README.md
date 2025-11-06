@@ -5,5 +5,5 @@
 <img width="1357" height="633" alt="img3" src="https://github.com/user-attachments/assets/8193236e-476b-4c4b-a5ec-579d70b22095" />
 
 ***Immagini sito***
-#Novembre 2025
+**Novembre 2025**
 
